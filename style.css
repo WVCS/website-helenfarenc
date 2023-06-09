@@ -1,4 +1,4 @@
-body {
+body{
   background-color: #00afb9
 }
 h1{
@@ -12,10 +12,6 @@ p{
  color: #fdfcdc;
   font-size: 300%;
   float:center;
-}
-img{
-  width:400px;
-  length: 400px;
 }
 ul{
   list-style-type:none;
@@ -36,4 +32,14 @@ li a{
 }
 li{
   float:left
+}
+p1{
+  color: #fdfcdc;
+  font-size: 230%;
+  
+}
+img{
+  width: 800px;
+  length: 900px;
+  
 }
